@@ -26,28 +26,6 @@ wisdom = "***"
 but_really_thats_all = "one week of some goddam good sleep"
 notBad = "meh"
 ################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 mylife = "short by comparison, only"
 mylife = 20#yrs
 

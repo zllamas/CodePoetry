@@ -1,3 +1,4 @@
+# PREAMBLE ONLY
 import random
 
 def isAMagic(obj):
@@ -25,6 +26,8 @@ power = "^^^"
 wisdom = "***"
 but_really_thats_all = "one week of some goddam good sleep"
 notBad = "meh"
+################################################################################
+# POEM STARTS HERE
 ################################################################################
 mylife = "short by comparison, only"
 mylife = 20#yrs

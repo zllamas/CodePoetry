@@ -1,41 +1,18 @@
-import random
+import my,y,a,i
 
-def isAMagic(obj):
-    if(obj == "magical"):
-        return True
-    return False
-def I_Found(obj):
-    return True
-def someWouldWant(obj):
-    return True
-def youthink(obj):
-    return "small"
-def whatIwant():
-    space = " " * random.randint(1,20)
-    print space + "**  **  + + + +"
-    print space + "  *** +           ***"
-    print space + "*** +             +"
-    print space + "***  +           +    BAA"
-    print space +  "      * + + + + *"
-    print space + "    **         **"
-    print
-lamp = "magical"
-money = "$$$"
-power = "^^^"
-wisdom = "***"
-but_really_thats_all = "one week of some goddam good sleep"
-notBad = "meh"
-################################################################################
-mylife = "short by comparison, only"
-mylife = 20#yrs
-
-#but
-if(I_Found(lamp) and isAMagic(lamp)):
-    assert someWouldWant(money) or someWouldWant(power) or someWouldWant(wisdom) == True
-    thoseThings = notBad
+# usually a
+lamp = a.lamp
+# but
+if(i.Found(a.lamp) and i.sAMagic(lamp)):
+    # I
+    assert (i.thinkSomeWouldWant(a.lotOfmoney) or
+        i.thinkSomeWouldWant(a.lotOfpower) or
+            i.thinkSomeWouldWant(a.bitOfwisdom))
+    thoseThings = a.reNotBad
     #but
-    for me in range(mylife):
-        if(youthink(whatIwant()) == "small"):
-            you = "right"
-
-print but_really_thats_all
+    for me in range(my.life):
+        if(y.outhink(i.want) == "small"):
+            y.ou = "right"
+        # can i take a
+        break
+a.ll_i_want_is()
